@@ -8,6 +8,7 @@ Inspired by the DarkRP gamemode from GMOD, this gamemode aim to be an non-seriou
 - Job system (Based on DarkRP, players can change their job easly with a menu, developpers can easly create their own jobs with cloths, spawn points and more)
 - Pre made jobs (All kind of jobs you could find on an DarkRP gamemode)
 - Vehicule shop (Basic vehicule shop with garage integrated around the map)
+- Printers !
 
 ## Tech used
 
